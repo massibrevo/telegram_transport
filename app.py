@@ -12,9 +12,9 @@ import requests
 
 
 # Token provided by @ BotFather
-TOKEN = 'TOKEN' 
+TOKEN = '5333107487:AAHdl3Wm9wmord6rHDKs8QQA-XST6uqlSX8' 
 # Your Heroku App Page 
-APP_NAME = 'https://XXXX.herokuapp.com/'
+APP_NAME = 'https://voishipmentbot.herokuapp.com/'
 # Port
 PORT = int(os.environ.get('PORT', '8443'))
 
